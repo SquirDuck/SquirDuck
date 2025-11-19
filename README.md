@@ -1,16 +1,31 @@
-## Hi there 👋
+# 🚀 Hello World, I'm Phúc Đức
 
-<!--
-**SquirDuck/SquirDuck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Thanks for dropping by! I'm SquirDuck, a tech enthusiast dedicated to AI innovation, intelligent systems, and building practical solutions for the future.
 
-Here are some ideas to get you started:
+## 👨‍💻 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* **Background & Focus:** I specialize in the intersection of **AI and IoT**, with hands-on experience building Computer Vision applications, RAG pipelines, and RC robotics.
+* **Skills:** Python, PyTorch, TensorFlow
+* **Inspiration:** By a Hiro Hamada (Big Hero 6) — inventing adaptive micro-bots and compassionate AI companions to change the world.
+
+## 🛠️ What i'm working on
+
+* Currently, I am **exploring new ideas** and looking for the next big challenge in AI.
+
+## 📬 Let's Chat
+
+I'm always open to interesting conversations! Whether you have a question, a project idea, or just want to say hi, don't hesitate to drop a message.
+
+## 🌐 Connect with Me
+
+<a href="mailto:phucduc1402@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Shoot%20Me%20A%20Mail-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+</a>
+
+<a href="https://www.linkedin.com/in/phucduc1402/">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+</a>
+
+<a href="https://www.facebook.com/pham.phuc.uc.274986">
+  <img src="https://img.shields.io/badge/Facebook-Follow-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+</a>
