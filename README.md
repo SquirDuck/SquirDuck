@@ -1,6 +1,6 @@
 # 🚀 Hello World, I'm Phúc Đức
 
-Thanks for dropping by! I'm SquirDuck, a tech enthusiast dedicated to AI innovation, intelligent systems, and building practical solutions for the future.
+Thanks for dropping by! I'm SquirDuck, a tech enthusiast dedicated to AI innovation and building practical solutions for the future.
 
 ## 👨‍💻 About Me
 
