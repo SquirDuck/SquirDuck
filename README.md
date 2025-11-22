@@ -5,7 +5,7 @@ Thanks for dropping by! I'm SquirDuck, a tech enthusiast dedicated to AI innovat
 ## 👨‍💻 About Me
 
 * **Background & Focus:** I specialize in the intersection of **AI and IoT**, with hands-on experience building Computer Vision applications, RAG pipelines, and RC robotics.
-* **Skills:** Python, SpeechRecognition, Computer Vision
+* **Skills:** Python, Deep Learning, Computer Vision
 * **Inspiration:** By a Hiro Hamada (Big Hero 6) — inventing adaptive micro-bots and compassionate AI companions to change the world.
 
 ## 🛠️ What i'm working on
